@@ -14,8 +14,8 @@ body {
 }
 
 .calculator {
-    border: 1px solid #ccc;
-    border-radius: 5px;
+    border: 10px solid #ccc;
+    border-radius: 10px;
     width: 400px;
     height: 600px;
     background-color: #fff;
@@ -61,7 +61,7 @@ button:hover {
 .equal-sign {
     background-color: #4caf50;
     color: #fff;
-    grid-column: span 2;
+    grid-column: span 4;
 }
 
 .all-clear {
